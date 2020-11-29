@@ -29,7 +29,7 @@ Para acessar a interface gráfica do banco de dados, basta iniciar a aplicação
 As configurações de acesso estão no arquivo application.properties no diretório resources. <br />
 As tabelas são criadas na primeira vez que a aplicação é iniciada, os scripts estão no diretório resources nos arquivos schema.sql e data.sql.
 
-![Console do H2](src/main/resources/img/h2-console.png?raw=true)
+![Console do H2](h2-console.png?raw=true)
 
 * [Documentação do H2 DB](https://www.h2database.com/html/features.html)
 
